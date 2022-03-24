@@ -4,8 +4,11 @@ A telegram bot, which handels zoom / class recordings for its members.
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
  I guess all students can relate that after the passing two years and the extensive usage of the zoom there are alot of recordings of classes wondering around the varios telegram groups.
- pesonally I have had enough with trying to orginize a decent group to hold all those recordings, everything gets to messy around telegram trying to orginize them.
- So I came with the idea to deploy a Bot that will orginize them easily for the user.
+ pesonally I have had enough with trying to orginize a decent group to hold all these recordings, 
+ everything gets so messy around telegram when trying to orginize them.
+ So I came with the idea to deploy a Bot that will orginize them easily for the students with minimal work and easy result.
+ 
+ I present to you, your personal Recording's Manager.
 
 ### Features:
 - **User Authorization**: A very simple mechanism, by editing the premission file you could allow users to access the bot by their ID.
