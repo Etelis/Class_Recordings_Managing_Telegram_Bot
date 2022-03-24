@@ -49,7 +49,7 @@ pip3 install -r requirements.txt
 ### Deployment
 With python3.7 or later.
 ```
-python3 -m bot
+python3 -m recordingBOT
 ```
 
 ### Support
